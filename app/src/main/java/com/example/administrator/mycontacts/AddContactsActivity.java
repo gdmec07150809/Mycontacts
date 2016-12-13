@@ -16,7 +16,7 @@ public class AddContactsActivity extends AppCompatActivity {
     private EditText mobileEditText;
     private EditText qqEditText;
     private EditText danweiEditText;
-    private  EditText addressEditText;
+     private  EditText addressEditText;
 
     @Override
     protected void onCreate( Bundle savedInstanceState) {
